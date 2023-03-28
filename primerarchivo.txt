@@ -1,1 +1,3 @@
 hola ok
+se procedio con exito la sincronizacion
+de una carpeta existente al repositoro en la nube

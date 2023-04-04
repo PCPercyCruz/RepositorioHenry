@@ -1,18 +1,18 @@
 //Funcion = sumatres
 //primera opcion
-//function sumatres(x) {
-   //return x + 3;
-//}
+function sumatres(x) {
+   return x + 3;
+}
 
 //Opcion2
-//var sumatres = function (x)  {
-    //return x + 3;
-//}
+var sumatres = function (x)  {
+    return x + 3;
+}
 
 //opcion3
-//var sumatres = (x) => {
- // return x + 3  
-//}
+var sumatres = (x) => {
+  return x + 3  
+}
 
 
 //funcion: cuidado con el consolelog

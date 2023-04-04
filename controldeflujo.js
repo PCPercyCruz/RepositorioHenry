@@ -22,7 +22,8 @@ function puedeManejar (edad) {
     }
 }
 
-puedeManejar(18)
+puedeManejar(18);
+
 
 
 

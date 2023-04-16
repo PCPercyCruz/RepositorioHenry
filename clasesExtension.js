@@ -5,7 +5,7 @@
 //SUPER //Permite indicar que propiedades se heredaran de la clase orincipal
 
 //Crear plase persona con su metodo saludar
-class persona {
+class Persona {
     constructor(nombre, edad){
         this.nombre = nombre;
         this.edad = edad;
@@ -19,7 +19,7 @@ class persona {
 
 //crear otra clase con nombre programador y disignarla como extension de la clase principal persona
 
-class programador extends persona{
+class Programador extends Persona{
     constructor(nombre, edad, añosDeExperiencia){
         super(nombre, edad);
         this.añosDeExperiencia = añosDeExperiencia;
@@ -29,8 +29,8 @@ class programador extends persona{
     }
 }
 
-let martin = new persona('Martin',25);
-let maria = new programador('María', 30,4);
+let martin = new Persona('Martin',25);
+let maria = new Programador('María', 30,4);
 martin.saludar();
 maria.codear();
 

@@ -1,5 +1,5 @@
 //acceder al objeto array por medio del prototipo para crear propiedades y metodods y usarlos como herencia
-/* Array.prototype.mayorQueTres = function(){
+ Array.prototype.mayorQueTres = function(){
     var arregloModificado = [];
     for(var i=0; i < this.length; i++){
         if (this[i] > 3){
@@ -15,7 +15,7 @@
 var areglo1 = [1,2,3,4,5];
 var nuevoarreglo = areglo1.mayorQueTres();
 
-console.log(nuevoarreglo); */
+console.log(nuevoarreglo);
 
 //
 //

@@ -1,0 +1,11 @@
+var cbSuma = function(arregloNumeros){
+    var resultado = arregloNumeros.map((suma) => {
+      //var  sum=0;
+      //var sum = sum + suma;
+      //return suma +1;
+      console.log(suma + 1);
+    })
+    return suma;
+ }
+
+ cbSuma([1,2,3])

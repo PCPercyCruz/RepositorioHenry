@@ -17,23 +17,23 @@ var sinnada = null;
 //ejercicios con operadores con precedencia segun tabla de orden de mayor jerarquia
 
 //suma
-//console.log(3 + 5);
-//resta
-//consoles.log(14 - 7);
-//multiplicacion
-//console.log(8 * 6);
+console.log(3 + 5);
+resta
+consoles.log(14 - 7);
+multiplicacion
+console.log(8 * 6);
 //Division
-//console.log(30 / 9);
+console.log(30 / 9);
 //resto
-//console.log(95 % 4);
+console.log(95 % 4);
 //prueba de precedencia, aqui calcula rimero la multiplicacion luego suma y resta
-//console.log(3 + 5 * 2 - 8);
+console.log(3 + 5 * 2 - 8);
 //decirle que calcule primero la suma utilizar los parentesis de mas alta precedencia o importantes de ejecucion primera
-//console.log((3 + 5) * 2 - 8);
-//console.log('Hola' + 'Camilo');
-//var nombre = 'Camilo';
-//var saludo = 'Hola ' + nombre;
-//console.log(saludo);
+console.log((3 + 5) * 2 - 8);
+console.log('Hola' + 'Camilo');
+var nombre = 'Camilo';
+var saludo = 'Hola ' + nombre;
+console.log(saludo);
 
 
 
